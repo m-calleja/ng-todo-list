@@ -1,5 +1,7 @@
 # NgTodoList
 
+This is a todo-list version created with angular 4
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
 
 ## Development server
